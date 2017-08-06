@@ -12,3 +12,7 @@ spring-social-core/src/test/java/exploration
 **/.settings
 **/bin
 .idea
+.iml
+.ipr
+.iws
+intellij-java-google-style.xml
