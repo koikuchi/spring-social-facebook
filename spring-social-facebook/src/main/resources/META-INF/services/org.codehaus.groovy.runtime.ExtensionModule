@@ -1,0 +1,3 @@
+moduleName=Facebook Marketing API extensions
+moduleVersion=1.0
+extensionClasses=org.springframework.social.facebook.api.impl.MarketingApiExtension

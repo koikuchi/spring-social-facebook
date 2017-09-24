@@ -192,6 +192,7 @@ project('spring-social-facebook') {
         compile ("com.fasterxml.jackson.core:jackson-databind:$jacksonVersion")
         compile ("com.fasterxml.jackson.core:jackson-annotations:$jacksonVersion")
         compile ("javax.servlet:javax.servlet-api:$servletApiVersion", provided)
+        compile ("org.codehaus.groovy:groovy:$groovyCoreVersion");
         testCompile ("org.springframework:spring-test:$springVersion")
     }
 }
